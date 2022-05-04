@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Link to another page](./another-page.html).
+[Link](./another-page.html).
 
 # Machine Learning
 <center><img src="assets/img/ML_image1"/></center>
